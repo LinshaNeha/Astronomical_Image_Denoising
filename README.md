@@ -6,7 +6,7 @@ This project focuses on enhancing the quality of astronomical images by applying
 
 Problem Statement
 
-Astronomical images often suffer from noise due to atmospheric interference, sensor limitations, and long exposure times. This noise can obscure important details necessary for analysis. The goal of this project is to compare the effectiveness of different classical denoising techniques in restoring these images with minimal loss of important information.
+Astronomical images often suffer from Gaussian noise due to atmospheric interference, sensor limitations, and long exposure times. This noise can obscure important details necessary for analysis. The goal of this project is to compare the effectiveness of different classical denoising techniques in restoring these images with minimal loss of important information.
 
 
 
